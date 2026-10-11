@@ -8,7 +8,10 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 add_executable(DESAFIO2 main.cpp
     Cadena.h
     Cadena.cpp
-    ListaDinamica.h)
+    FechaHora.h
+    FechaHora.cpp
+
+)
 
 include(GNUInstallDirs)
 install(TARGETS DESAFIO2
