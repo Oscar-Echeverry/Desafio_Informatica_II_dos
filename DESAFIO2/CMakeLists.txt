@@ -10,6 +10,9 @@ add_executable(DESAFIO2 main.cpp
     Cadena.cpp
     FechaHora.h
     FechaHora.cpp
+    ListaDinamica.h
+    Foto.h
+    Foto.cpp
 
 )
 
