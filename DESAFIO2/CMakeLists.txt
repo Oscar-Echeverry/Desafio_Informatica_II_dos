@@ -18,6 +18,10 @@ add_executable(DESAFIO2
     Album.cpp
     MedidorRecursos.h
     MedidorRecursos.cpp
+    Usuario.h
+    Mensaje.h
+    SolicitudAmistad.h
+    Usuario.cpp
 )
 
 include(GNUInstallDirs)
