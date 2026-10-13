@@ -22,6 +22,11 @@ add_executable(DESAFIO2
     Mensaje.h
     SolicitudAmistad.h
     Usuario.cpp
+    Mensaje.cpp
+    SolicitudAmistad.cpp
+    Archivo.h
+    Plataforma.h
+
 )
 
 include(GNUInstallDirs)
