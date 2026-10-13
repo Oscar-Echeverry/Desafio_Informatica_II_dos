@@ -26,6 +26,7 @@ add_executable(DESAFIO2
     SolicitudAmistad.cpp
     Archivo.h
     Plataforma.h
+    Plataforma.cpp
 
 )
 
