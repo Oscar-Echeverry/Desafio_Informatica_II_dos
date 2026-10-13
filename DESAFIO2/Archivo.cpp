@@ -1,4 +1,4 @@
-#include "Archivos.h"
+#include "Archivo.h"
 #include "Plataforma.h"
 #include "Usuario.h"
 #include "Album.h"
@@ -396,7 +396,7 @@ bool Archivos::guardar(const Plataforma& sistema) {
 
                 fotos
                     << '|'
-                    << foto->getTamano()
+                    << foto->gettamaño()
                     << '|'
                     << foto->getRuta().c_str()
                     << '|'
