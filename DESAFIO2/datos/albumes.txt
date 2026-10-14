@@ -1,0 +1,6 @@
+usuario0000|Album0_0|/users/udebook/usuario0000/albums/Album0_0|publico
+usuario0000|Album0_1|/users/udebook/usuario0000/albums/Album0_1|amigos
+usuario0001|Album1_0|/users/udebook/usuario0001/albums/Album1_0|publico
+usuario0001|Album1_1|/users/udebook/usuario0001/albums/Album1_1|amigos
+usuario0002|Album2_0|/users/udebook/usuario0002/albums/Album2_0|publico
+usuario0002|Album2_1|/users/udebook/usuario0002/albums/Album2_1|amigos

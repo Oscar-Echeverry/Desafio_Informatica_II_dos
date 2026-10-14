@@ -27,7 +27,7 @@ add_executable(DESAFIO2
     Archivo.h
     Plataforma.h
     Plataforma.cpp
-    Archivos.cpp
+    Archivo.cpp
 
 )
 

@@ -2,7 +2,7 @@
 #define PLATAFORMA_H
 #include "Cadena.h"
 #include "ListaDinamica.h"
-#include "Archivos.h"
+#include "Archivo.h"
 #include "MedidorRecursos.h"
 
 class Usuario;
