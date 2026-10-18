@@ -29,6 +29,7 @@ usuario0001|usuario0004
 usuario0001|usuario0101
 usuario0001|usuario0998
 usuario0001|usuario0999
+usuario0001|usuario0099
 usuario0002|usuario0003
 usuario0002|usuario0004
 usuario0002|usuario0005
